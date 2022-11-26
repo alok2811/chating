@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023151200255",
+    "project_id": "chatapp-8b3c5",
+    "storage_bucket": "chatapp-8b3c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023151200255:android:7a6030611bef59a767f9ca",
+        "android_client_info": {
+          "package_name": "com.techglock.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023151200255-n7eveb3gs4gi39hpi0jb9f6ds2nnc967.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBah8x7eWiq5u3PmvX1E8YQ5M6iZyLyJOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023151200255-n7eveb3gs4gi39hpi0jb9f6ds2nnc967.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
